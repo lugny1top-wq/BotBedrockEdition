@@ -4,7 +4,7 @@ const readline = require('readline')
 // Basic connection settings.
 const HOST = 'frizmine.net'
 const PORT = 19133
-const USERNAME = 'BotPE' //qwerty
+const USERNAME = 'BotBE' //qwerty
 const VERSION = '1.26.0'
 const AUTH_PASSWORD = 'qwerty'
 
