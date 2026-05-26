@@ -1,14 +1,1 @@
-Создай бота для Minecraft PE, написанный на JavaScript.
-  Бот может заходить на сервера который я впишу в код ну и порт конечно, также с тем ником который я впишу в код,
-  сделай рабочий, а также логи где если появляется авторизация окно - то можно вписать пароль даже, авторизация - форма
-  ты должен написать еще обход но не чит, напиши обход на кик после регистрации/входа в аккаунт
-Пример кика сетевых пакетов:
-[2026-05-26T19:04:47.908Z] [INFO] Connecting. {"host":"frizmine.net","port":19133,"username":"FMBotPE"}
-Connecting to frizmine.net:19133 §l§4Friz§fMine§a Anarchy §r§7#1 (Good Boy), version 1.26.20 
-[2026-05-26T19:04:49.378Z] [ERROR] Read error for undefined : Unexpected buffer end while reading VarInt
-[2026-05-26T19:04:49.650Z] [WARN] Disconnected. {"reason":"unknown","hide_disconnect_reason":false,"message":"Ошибка обработки сетевого пакета.","filtered_message":""}
-[2026-05-26T19:04:49.650Z] [INFO] Reconnecting in 5000 ms. {"attempt":1}
-Server requested disconnect: Ошибка обработки сетевого пакета.
-[2026-05-26T19:04:49.651Z] [WARN] Kicked. {"reason":"unknown","hide_disconnect_reason":false,"message":"Ошибка обработки сетевого пакета.","filtered_message":""}
-[2026-05-26T19:04:49.651Z] [WARN] Connection closed.
-[2026-05-26T19:04:49.652Z] [INFO] Reconnecting in 5000 ms. {"attempt":2}
+Yes, Idi nahui
